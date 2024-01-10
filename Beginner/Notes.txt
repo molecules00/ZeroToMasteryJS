@@ -1,0 +1,10 @@
+-> Console Command : is an object and inside of this object we have a lot of methods
+-> Comments : is one of the commands that compiler ignores when it compiles your codes
+-> Sudo Code : is a code which is use implementation purposes or just to show how the codes work but it will not run or work
+-> Syntax for declaring a variable (Reserved Keyword such as : var , let and const) (Variable name) (Type of Value)
+-> When declaring a variable you should not begin with number like so : let 10fav_fruit = "Dalandan"; but instead we can use numbers after the first letter like so : let fav_fruit10 = "Dalandan"; and Also the underscore (_) and Dollar Sign ($) is the only special characters allowed in the variable name.
+-> This special characters can also be the in front of the upcoming letters for the variable name
+-> This is different case convention
+    > Kebab Case: kebab_case ==> Mostly used in Python
+    > Camel Case: camelCase ==> Mostly used in JavaScript Community
+-> You cannot change the value of constant variable once to declare it 
