@@ -8,3 +8,26 @@
     > Kebab Case: kebab_case ==> Mostly used in Python
     > Camel Case: camelCase ==> Mostly used in JavaScript Community
 -> You cannot change the value of constant variable once to declare it 
+
+Primitive Types Variable: 
+1. Numbers
+
+-> typeof : is a reserved keyword in JavaScript that returns what type of variable are we going to show
+-> % modulos operation and it gives us the remainder like so, console.log(2 % 2); result = 0 . Using ** in basic math it gives us power of specific number like so , console.log(2 ** 2); result = 4
+-> ++ increment , -- decrement
+-> NaN : means not a number 
+-> falsy value
+    > false 
+    > null : can be set by the programmer 
+    > undefined : can be set by the JS compiler
+    > 0
+    > -0
+    > NaN
+    > '',"",`` (back ticks), (empty Quotes)
+-> Equality Operators 
+    > === Strict Equality
+    > !== Strict non-Equality Operators
+    > == lose Equality Operators
+    > != not Equality Operators
+
+-> `` (back ticks) => we can use this for multi line and appending variable like so : 

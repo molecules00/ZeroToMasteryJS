@@ -1,8 +1,8 @@
 // 1. Create variable name (name) & store your name
 let name = "Arvie";
 
-// 2. Create variable name (WhatDoYouWannaBecomeInYourLife) & store your "programmer"
-let WhatDoYouWannaBecomeInYourLife = "Software Engineer";
+// 2. Create variable name (WhatDoYouWannaBecomeInYourLife) & store what you want be 
+let WhatDoYouWannaBecomeInYourLife = "Superman";
 
 // 3. Create variable name (gender) & store your gender
 let gender = "Male";
