@@ -8,10 +8,10 @@
 
 let favActorFirstName = "Joaquin";
 let favActorLastName = "Phoenix";
-let fullname = favActorFirstName + favActorLastName;
+let fullname = favActorFirstName + " " + favActorLastName;
 let uppercase = fullname.toUpperCase();
 let message = `My Favorite is ${fullname} and the i love his movie about the joker `;
 
 message += `and his best show is Joker`;
 
-console.log(message);
+console.log(fullname);

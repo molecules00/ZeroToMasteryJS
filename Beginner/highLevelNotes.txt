@@ -1,0 +1,11 @@
+Nullish coalescing assignment operator
+
+    Instead of this :  
+        if (token === null || token === undefined) {
+            token = user;
+        }
+
+    Do this : 
+        token ??= user
+
+

@@ -31,3 +31,27 @@ Primitive Types Variable:
     > != not Equality Operators
 
 -> `` (back ticks) => we can use this for multi line and appending variable like so : 
+
+Type Conversion 
+-> Convert String to Number (Integer) like so : 
+    let money = "50";
+
+    money = parseInt(money); 
+
+    // Other way to convert String to Number  
+    money = +money; // (Short Method)
+    money = Number(money); // (Constructer)
+    console.log(money);
+
+-> Convert Number to String like so : 
+
+    let money = 50;
+
+    money = money.toString();
+
+-> Convert String to Decimal like so  :
+
+    let money = "40.2331";
+
+    money = parseFloat(money);
+
